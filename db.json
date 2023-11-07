@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "category": "Infra"
+    },
+    {
+      "id": 1,
+      "category": "Desenvolvimento"
+    },
+    {
+      "id": 2,
+      "category": "Design"
+    },
+    {
+      "id": 3,
+      "category": "Planejamento"
+    }
+  ],
+  "projects": [
+    {
+      "name": [
+        "Projeto Do Wesley"
+      ],
+      "budget": [
+        "20000"
+      ],
+      "category": {
+        "id": "1",
+        "category": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    }
+  ]
+}
